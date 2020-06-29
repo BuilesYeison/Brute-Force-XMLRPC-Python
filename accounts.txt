@@ -1,0 +1,7 @@
+admin,admin
+nananzu,neneterun
+numbers,1234
+user,hola123
+user2,password
+amor,confianza
+hacker,hacking
